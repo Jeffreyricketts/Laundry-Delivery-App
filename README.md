@@ -7,4 +7,4 @@
 This app will be used to allow users to have a more streamlined customer experience with The Laundry People. Customers will be able to use this app to order our services online, either through mobile or desktop.
 
 # Current State of App
-User Submission and preliminary Data Storage have been implemented, working on Flask functionality and MySQL. 
+User Submission and preliminary Data Storage with SQLite have been implemented, working on Flask functionality and MySQL. 
